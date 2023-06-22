@@ -7,7 +7,7 @@ const Layout = ({ children }) => (
         <a>home</a>
       </Link>
       <Link href="/blog" legacyBehavior>
-        <a>blog</a>
+        <a>thoughts</a>
       </Link>
       <Link href="/about" legacyBehavior>
         <a>about</a>

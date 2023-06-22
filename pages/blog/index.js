@@ -27,7 +27,7 @@ const Blog = ({ postsList }) => (
         >
           <a>
             <img src={post.attributes.thumbnail} />
-            <h2>{post.attributes.title}</h2>
+            <h4>{post.attributes.title}</h4>
           </a>
         </Link>
       </div>
